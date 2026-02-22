@@ -1,0 +1,7 @@
+Edukasi_Finansial_spartaplay88/
+│
+├── docs/              # Dokumentasi dan panduan edukasi
+├── articles/          # Artikel dan materi pembelajaran
+├── resources/          # Template, tools, dan referensi
+├── examples/           # Studi kasus dan contoh penerapan
+└── README.md           # Dokumentasi utama
